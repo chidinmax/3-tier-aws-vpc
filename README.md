@@ -1,1 +1,1 @@
-Use Terraform Module to Build a 3 Tier AWS Network VPC
+Using Terraform Module to Build a 3 Tier AWS Network VPC
